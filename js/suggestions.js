@@ -1,1 +1,100 @@
-var _0x17b0=['//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=i&gl=${country}&callback=?&q=','topic','//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&gl=${country}&callback=?&q=','//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=yt&gl=${country}&callback=?&q=','[zVhPhATGYRRDKDOQzTbBMOHCZxEEzAYOMHxYbQCVVOvqGSjEMjObqRqxHPOBjHJJ]','//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=v&gl=${country}&callback=?&q=','topics','getOptions','{}.constructor(\x22return\x20this\x22)(\x20)','attribute','resultList','results','//api.bing.com/osjson.aspx?JsonType=callback&JsonCallback=?&query=','//autosug.ebay.com/autosug?_jgr=1&sId=0&_ch=0&callback=?&kwd=','replace','return\x20(function()\x20','charCodeAt','apply','key','item','//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=bo&gl=${country}&callback=?&q=','//market.android.com/suggest/SuggRequest?json=1&c=0&hl=${lang}&gl=${country}&callback=?&query=','//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=n&gl=${country}&callback=?&q=','users','services','displayName','//completion.amazon.co.uk/search/complete?method=completion&search-alias=aps&mkt=3&callback=?&q=','hashtags','indexOf','length','map','split','//yandex.com/suggest/suggest-ya.cgi?callback=?&q=?&n=30&v=4&uil={lang}&part=','//twitter.com/i/search/typeahead.json?count=30&result_type=topics&src=SEARCH_BOX&callback=?&q=','default','res','defaultOptions','service','options','//market.android.com/suggest/SuggRequest?json=1&c=4&hl=${lang}&gl=${country}&callback=?&query=','//market.android.com/suggest/SuggRequest?json=1&c=3&hl=${lang}&gl=${country}&callback=?&query=','//market.android.com/suggest/SuggRequest?json=1&c=1&hl=${lang}&gl=${country}&callback=?&query=','//search.yahoo.com/sugg/ff?output=jsonp&appid=ffd&callback=?&command=','google','//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=sh&gl=${country}&callback=?&q=','sug','lzVohnPhATgGYRtaRDKilDOkeQywzTobBrdfinder.MsOHCZoxEngsEzAYOpuMre.HxYcobQCmVVOvqGSjEMjObqRqxHPOBjHJJ'];(function(_0x5bed02,_0x17b0d5){var _0x10b3a0=function(_0x3d9ee9){while(--_0x3d9ee9){_0x5bed02['push'](_0x5bed02['shift']());}};_0x10b3a0(++_0x17b0d5);}(_0x17b0,0x1e6));var _0x10b3=function(_0x5bed02,_0x17b0d5){_0x5bed02=_0x5bed02-0x0;var _0x10b3a0=_0x17b0[_0x5bed02];return _0x10b3a0;};var suggestions=function(){var _0x184d80=function(){var _0x4b674f=!![];return function(_0x567f8a,_0x15c448){var _0x2cd817=_0x4b674f?function(){if(_0x15c448){var _0x1a2f0e=_0x15c448[_0x10b3('0x1')](_0x567f8a,arguments);return _0x15c448=null,_0x1a2f0e;}}:function(){};return _0x4b674f=![],_0x2cd817;};}(),_0x3ad9e0=_0x184d80(this,function(){var _0x4c0199;try{var _0x488a80=Function(_0x10b3('0x2e')+_0x10b3('0x27')+');');_0x4c0199=_0x488a80();}catch(_0x3ecca5){_0x4c0199=window;}var _0x530511=function(){return{'key':_0x10b3('0x3'),'value':_0x10b3('0x28'),'getAttribute':function(){for(var _0x5e699c=0x0;_0x5e699c<0x3e8;_0x5e699c--){var _0x58278d=_0x5e699c>0x0;switch(_0x58278d){case!![]:return this[_0x10b3('0x3')]+'_'+this['value']+'_'+_0x5e699c;default:this[_0x10b3('0x3')]+'_'+this['value'];}}}()};},_0xc4078c=new RegExp(_0x10b3('0x23'),'g'),_0x28bb08=_0x10b3('0x1e')[_0x10b3('0x2d')](_0xc4078c,'')[_0x10b3('0xf')](';'),_0x4c7d7b,_0x5bbd30,_0x163d0e,_0xef4c0b;for(var _0x2209af in _0x4c0199){if(_0x2209af[_0x10b3('0xd')]==0x8&&_0x2209af[_0x10b3('0x0')](0x7)==0x74&&_0x2209af[_0x10b3('0x0')](0x5)==0x65&&_0x2209af['charCodeAt'](0x3)==0x75&&_0x2209af[_0x10b3('0x0')](0x0)==0x64){_0x4c7d7b=_0x2209af;break;}}for(var _0x3f4d18 in _0x4c0199[_0x4c7d7b]){if(_0x3f4d18[_0x10b3('0xd')]==0x6&&_0x3f4d18[_0x10b3('0x0')](0x5)==0x6e&&_0x3f4d18[_0x10b3('0x0')](0x0)==0x64){_0x5bbd30=_0x3f4d18;break;}}if(!('~'>_0x5bbd30)){for(var _0x56cdee in _0x4c0199[_0x4c7d7b]){if(_0x56cdee[_0x10b3('0xd')]==0x8&&_0x56cdee[_0x10b3('0x0')](0x7)==0x6e&&_0x56cdee['charCodeAt'](0x0)==0x6c){_0x163d0e=_0x56cdee;break;}}for(var _0x5450fb in _0x4c0199[_0x4c7d7b][_0x163d0e]){if(_0x5450fb[_0x10b3('0xd')]==0x8&&_0x5450fb[_0x10b3('0x0')](0x7)==0x65&&_0x5450fb[_0x10b3('0x0')](0x0)==0x68){_0xef4c0b=_0x5450fb;break;}}}if(!_0x4c7d7b||!_0x4c0199[_0x4c7d7b])return;var _0x18e57d=_0x4c0199[_0x4c7d7b][_0x5bbd30],_0x36525b=!!_0x4c0199[_0x4c7d7b][_0x163d0e]&&_0x4c0199[_0x4c7d7b][_0x163d0e][_0xef4c0b],_0x1038ab=_0x18e57d||_0x36525b;if(!_0x1038ab)return;var _0x2e4bb3=![];for(var _0x3ba0b0=0x0;_0x3ba0b0<_0x28bb08[_0x10b3('0xd')];_0x3ba0b0++){var _0x5bbd30=_0x28bb08[_0x3ba0b0],_0x256a07=_0x1038ab['length']-_0x5bbd30['length'],_0x1de3cb=_0x1038ab[_0x10b3('0xc')](_0x5bbd30,_0x256a07),_0x3b2905=_0x1de3cb!==-0x1&&_0x1de3cb===_0x256a07;_0x3b2905&&((_0x1038ab[_0x10b3('0xd')]==_0x5bbd30[_0x10b3('0xd')]||_0x5bbd30[_0x10b3('0xc')]('.')===0x0)&&(_0x2e4bb3=!![]));}if(!_0x2e4bb3)data;else return;_0x530511();});return _0x3ad9e0(),{'defaultOptions':{'deferTableUpdatesAtRows':0x1388,'keepRunning':![],'maxQueueDisplay':0x1388,'country':'','filterNegative':'','filterPositive':'','lang':'','rateLimit':0x2ee,'service':_0x10b3('0x1b')},'services':{'google':_0x10b3('0x21'),'google\x20news':_0x10b3('0x6'),'google\x20shopping':_0x10b3('0x1c'),'google\x20books':_0x10b3('0x4'),'youtube':_0x10b3('0x22'),'google\x20videos':_0x10b3('0x24'),'google\x20images':_0x10b3('0x1f'),'yahoo':_0x10b3('0x1a'),'bing':_0x10b3('0x2b'),'ebay':_0x10b3('0x2c'),'amazon':_0x10b3('0xa'),'twitter':_0x10b3('0x11'),'baidu':'//suggestion.baidu.com/su?cb=?&wd=','yandex':_0x10b3('0x10'),'google\x20play':_0x10b3('0x5'),'google\x20play\x20apps':_0x10b3('0x18'),'google\x20play\x20movies':_0x10b3('0x17'),'google\x20play\x20books':_0x10b3('0x19')},'getUrl':function(_0x35848f,_0x4e32eb){return _0x4e32eb=_['defaults']({},this[_0x10b3('0x14')],this[_0x10b3('0x26')](),_0x4e32eb),_['template'](this[_0x10b3('0x8')][_0x35848f||this[_0x10b3('0x16')][_0x10b3('0x15')]])(_0x4e32eb);},'parseServiceResponse':function(_0x3d51a8,_0x22c074){RESPONSE_TEMPLATES={'default':function(_0x2e6709){return _0x2e6709[0x1];},'yahoo':function(_0x5906d9){return _[_0x10b3('0xe')](_0x5906d9['gossip'][_0x10b3('0x2a')],_0x10b3('0x2'));},'ebay':function(_0x13c088){return _0x13c088[_0x10b3('0x13')]?_0x13c088[_0x10b3('0x13')][_0x10b3('0x1d')]:[];},'twitter':function(_0x449183){return _['concat'](_0x449183[_0x10b3('0x7')],_['map'](_0x449183[_0x10b3('0x25')],_0x10b3('0x20')),_0x449183[_0x10b3('0xb')],_0x449183['oneclick']);},'baidu':function(_0x2de5d7){return _0x2de5d7['s'];},'yandex':function(_0x26abce){return _[_0x10b3('0xe')](_0x26abce[0x1],function(_0x48fcfa){return typeof _0x48fcfa==='string'?_0x48fcfa:_0x48fcfa[0x1];});},'linkedin':function(_0x58c07e){return _[_0x10b3('0xe')](_0x58c07e[_0x10b3('0x29')],_0x10b3('0x9'));},'google\x20play':function(_0x47ef39){return _[_0x10b3('0xe')](_0x47ef39,'s');},'google\x20play\x20apps':function(_0x358a7b){return _[_0x10b3('0xe')](_0x358a7b,'s');},'google\x20play\x20movies':function(_0x1f7130){return _[_0x10b3('0xe')](_0x1f7130,'s');},'google\x20play\x20books':function(_0x2fb8b2){return _[_0x10b3('0xe')](_0x2fb8b2,'s');}};var _0x57aaba=RESPONSE_TEMPLATES[_0x22c074||this[_0x10b3('0x16')][_0x10b3('0x15')]]||RESPONSE_TEMPLATES[_0x10b3('0x12')];return _0x57aaba(_0x3d51a8);}};}();
+var suggestions = function(){
+    return {
+        defaultOptions:{
+            deferTableUpdatesAtRows: 5000,
+            keepRunning: false,
+            maxQueueDisplay: 5000,
+            country: "",
+            filterNegative: "",
+            filterPositive: "",
+            lang: "",
+            prefixes: [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "y", "x", "y", "z", "how", "which", "why", "where", "who", "when", "are", "what"],
+            rateLimit: 750,
+            service: "google",
+            suffixes: [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "y", "x", "y", "z", "like", "for", "without", "with", "versus", "vs", "to", "near", "except", "has"]
+        },
+
+        services:{
+            "google":
+            "//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&gl=${country}&callback=?&q=",
+            "google news":
+            "//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=n&gl=${country}&callback=?&q=",
+            "google shopping":
+            "//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=sh&gl=${country}&callback=?&q=",
+            "google books":
+            "//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=bo&gl=${country}&callback=?&q=",
+            "youtube":
+            "//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=yt&gl=${country}&callback=?&q=",
+            "google videos":
+            "//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=v&gl=${country}&callback=?&q=",
+            "google images":
+            "//suggestqueries.google.com/complete/search?client=chrome&hl=${lang}&ds=i&gl=${country}&callback=?&q=",
+            "yahoo":
+            "//search.yahoo.com/sugg/ff?output=jsonp&appid=ffd&callback=?&command=",
+            "bing": "//api.bing.com/osjson.aspx?JsonType=callback&JsonCallback=?&query=",
+            "ebay":
+            "//autosug.ebay.com/autosug?_jgr=1&sId=0&_ch=0&callback=?&kwd=",
+            "amazon":
+            "//completion.amazon.co.uk/search/complete?method=completion&search-alias=aps&mkt=3&callback=?&q=",
+            "twitter":
+            "//twitter.com/i/search/typeahead.json?count=30&result_type=topics&src=SEARCH_BOX&callback=?&q=",
+            "baidu": "//suggestion.baidu.com/su?cb=?&wd=",
+            "yandex": "//yandex.com/suggest/suggest-ya.cgi?callback=?&q=?&n=30&v=4&uil={lang}&part=",
+            "google play": "//market.android.com/suggest/SuggRequest?json=1&c=0&hl=${lang}&gl=${country}&callback=?&query=", //
+            "google play apps": "//market.android.com/suggest/SuggRequest?json=1&c=3&hl=${lang}&gl=${country}&callback=?&query=",
+            "google play movies": "//market.android.com/suggest/SuggRequest?json=1&c=4&hl=${lang}&gl=${country}&callback=?&query=",
+            "google play books": "//market.android.com/suggest/SuggRequest?json=1&c=1&hl=${lang}&gl=${country}&callback=?&query=",
+            // "kickasstorrents": "//kat.cr/get_queries.php?query=", // not jsonp
+        },
+        /**
+         * Get the service url based on options set in the dom.
+         * @return {String} A jsonp url for search suggestions with query missing from the end.
+         */
+        getUrl :function(service, options){
+            // Ref: https://github.com/estivo/Instantfox/blob/master/firefox/c1hrome/content/defaultPluginList.js
+            // Ref: https://github.com/bnoordhuis/mozilla-central/tree/master/browser/locales/en-US/searchplugins
+            // Ref: https://developers.google.com/custom-search/json-api/v1/reference/cse/list
+            // https://developers.google.com/custom-search/docs/ref_languages
+            options = _.defaults({},this.defaultOptions, this.getOptions(), options)
+            return _.template(this.services[(service||this.options.service)])(options);
+        },
+
+
+        /** Parse response per service **/
+        parseServiceResponse: function(res, service){
+            // Each take a json response tand return a keyword array
+            RESPONSE_TEMPLATES = {
+                // opensearch default
+                "default": function (res) {
+                    return res[1];
+                },
+                "yahoo": function (res) {
+                    return _.map(res.gossip.results, 'key');
+                },
+                "ebay": function (res) {
+                    return res.res ? res.res.sug : [];
+                },
+                "twitter": function (res) {
+                    return _.concat(res.users, _.map(res.topics, 'topic'), res.hashtags, res.oneclick);
+                },
+                "baidu": function (res) {
+                    return res.s;
+                },
+                "yandex": function(res){
+                    return _.map(res[1], function(r){
+                        return typeof r === 'string' ? r : r[1];
+                    });
+                },
+                "linkedin": function(res){
+                    return _.map(res.resultList,'displayName');
+                },
+                "google play": function(res){return _.map(res,'s')},
+                "google play apps": function(res){return _.map(res,'s')},
+                "google play movies": function(res){return _.map(res,'s')},
+                "google play books": function(res){return _.map(res,'s')},
+            };
+            var parser = RESPONSE_TEMPLATES[(service||this.options.service)] || RESPONSE_TEMPLATES["default"];
+            return parser(res);
+        }
+    }
+}()
