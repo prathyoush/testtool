@@ -28,7 +28,7 @@ var KWS = function(){
             if (this.doWork === false) {
                 // reset these
                 this.saveSettings();
-                $('#startjob').val('Stop Job').text('Stop Finding').addClass('btn-danger');
+                $('#startjob').val('Stop Job').text('Stop shitting').addClass('btn-danger');
                 this.hashMapInputs = {};
                 this.keywordsToQuery = [];
                 this.keywordsToQueryIndex = 0;
@@ -73,7 +73,7 @@ var KWS = function(){
 
         StopWork: function(){
             if (this.doWork){
-                $('#startjob').val('Start Job').text('Start Finding').removeClass('btn-danger');
+                $('#startjob').val('Start Job').text('Start shitting').removeClass('btn-danger');
                 this.doWork = false;
                 // $('#input').show();
                 this.table.draw();
@@ -397,7 +397,7 @@ var KWS = function(){
                 filterNegative: "",
                 filterPositive: "",
                 lang: "",
-                prefixes: [" ","],
+                prefixes: [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "y", "x", "y", "z", "how", "which", "why", "where", "who", "when", "are", "what"],
                 rateLimit: 750,
                 service: "google",
                 suffixes: [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "y", "x", "y", "z", "like", "for", "without", "with", "versus", "vs", "to", "near", "except", "has"]
