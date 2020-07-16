@@ -397,10 +397,10 @@ var KWS = function(){
                 filterNegative: "",
                 filterPositive: "",
                 lang: "",
-                prefixes: ["how"],
-                rateLimit: 750,
+                prefixes: "",
+                rateLimit: 1000,
                 service: "google",
-                suffixes: ["for"]
+                suffixes: "",
             }; // for now defaults are set in html
             if (argOptions===undefined) argOptions={};
             return _.defaults(argOptions,this.getDomOptions(),defaultOptions);
