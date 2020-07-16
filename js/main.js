@@ -398,7 +398,7 @@ var KWS = function(){
                 filterPositive: "",
                 lang: "",
                 prefixes: [" ",],
-                rateLimit: 750,
+                rateLimit: 5000,
                 service: "google",
                 suffixes: [" ",],
             }; // for now defaults are set in html
