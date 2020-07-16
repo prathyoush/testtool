@@ -398,7 +398,7 @@ var KWS = function(){
                 filterPositive: "",
                 lang: "",
                 
-                rateLimit: 750,
+                
                 service: "google",
                 
             }; // for now defaults are set in html
