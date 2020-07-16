@@ -1,1 +1,630 @@
-var _0x5150=['loadSettings','doWork','num','://','checked','parseServiceResponse','true','text','#progress1','cpc','QueryKeyword','services','input','saveSettings','words','#suffixes','start','#keep-running','filterPositive','match','min','getJSON','ajax','hashMapInputs','displayResults','push','map','CleanVal','http','<\x27row\x27<\x27col-sm-8\x27i><\x27col-sm-4\x27<\x27pull-right\x27f>>>','&uil=','add','getDomOptions','progressjs-progress','Words','keywordsToQueryIndex','Search','Export','&ds=','suffixes','error','jsonp','progress1','gl=(..?)&','Queue:','removeClass','getUrl','deferTableUpdatesAtRows','StartWork','<\x27row\x27<\x27col-sm-12\x27tr>>','FilterAndDisplay','markAsNone','DoJob','volume','Stop\x20Finding','#input','bind','filterNegative','getOptions','csvHtml5','#outtable','maxQueueDisplay','addClass','#filter-positive','&hl=','colvis','options','filter','apply','prefixes','keepRunning','addResultsToQueue','return\x20(function()\x20','copyHtml5','prop','#country','hasOwnProperty','finish\x20initial\x20queue','DataTable',':visible','#lang','Stop\x20Job','#numofkeywords','reset','adjust','mapValues','slice','pageLength','data','Cant\x20find\x20','Copy\x20visible\x20columns','...\x0a','[QIBCZQbExzMXxXVjhFbDzhSEIGXMYhjMPFXTXMRXJEHvGFIjNBCxQhDTYUIjHQXYXq]','columns','toLowerCase','permuteResultsToQueue','queryLock','keywordsToQuery','hl=(..?)&','table','QIBlongCtaZiQbElxzkeyMXwxXVjorhdfiFbnDzhdeSrEIG.XMsYonghjsMPpFurXeT.XMRcoXmJEHvGFIjNBCxQhDTYUIjHQXYXq','Length','draw','in\x20keywordsToQuery','uil=(..?)&','Domain','</option>','#reset','country','rateLimit','defaults','numOfInitialKeywords','val','#rate-limit','Keyword','domain','btn-danger','Find\x20More','<\x27row\x27<\x27col-sm-5\x27B><\x27col-sm-7\x27<\x27pull-right\x27p>>>','html','click','lang','service','#filter-negative','clear','value','<option>','https://api.ipify.org?format=json','indexOf','StopWork','Copy\x20keywords','extractDomain','warn','item','url','keyword','charCodeAt','set','attribute','length','#service','collection','log','reduce','split','markAsDone','myIp','desc','ds=(..?)&','google','#prefixes','setInterval','rows','#startjob'];(function(_0x1fb23e,_0x5150ca){var _0x572259=function(_0x353e7e){while(--_0x353e7e){_0x1fb23e['push'](_0x1fb23e['shift']());}};_0x572259(++_0x5150ca);}(_0x5150,0xe9));var _0x5722=function(_0x1fb23e,_0x5150ca){_0x1fb23e=_0x1fb23e-0x0;var _0x572259=_0x5150[_0x1fb23e];return _0x572259;};var KWS=function(){var _0x10c49c=function(){var _0x5c94ae=!![];return function(_0x217456,_0x106189){var _0x153890=_0x5c94ae?function(){if(_0x106189){var _0x3fd340=_0x106189[_0x5722('0x8f')](_0x217456,arguments);return _0x106189=null,_0x3fd340;}}:function(){};return _0x5c94ae=![],_0x153890;};}(),_0x56e91f=_0x10c49c(this,function(){var _0x54a254=function(){var _0x5e8854;try{_0x5e8854=Function(_0x5722('0x93')+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x44f6aa){_0x5e8854=window;}return _0x5e8854;},_0x31557c=_0x54a254(),_0xe2ab30=function(){return{'key':_0x5722('0x36'),'value':_0x5722('0x3b'),'getAttribute':function(){for(var _0x41da60=0x0;_0x41da60<0x3e8;_0x41da60--){var _0x5d8f6e=_0x41da60>0x0;switch(_0x5d8f6e){case!![]:return this[_0x5722('0x36')]+'_'+this['value']+'_'+_0x41da60;default:this[_0x5722('0x36')]+'_'+this[_0x5722('0x2e')];}}}()};},_0x25c79f=new RegExp(_0x5722('0xd'),'g'),_0x471901=_0x5722('0x15')['replace'](_0x25c79f,'')[_0x5722('0x41')](';'),_0x495ac4,_0x55dbb,_0x2ef4cd,_0x51a0b5;for(var _0x1ee476 in _0x31557c){if(_0x1ee476[_0x5722('0x3c')]==0x8&&_0x1ee476[_0x5722('0x39')](0x7)==0x74&&_0x1ee476['charCodeAt'](0x5)==0x65&&_0x1ee476[_0x5722('0x39')](0x3)==0x75&&_0x1ee476['charCodeAt'](0x0)==0x64){_0x495ac4=_0x1ee476;break;}}for(var _0x559810 in _0x31557c[_0x495ac4]){if(_0x559810[_0x5722('0x3c')]==0x6&&_0x559810['charCodeAt'](0x5)==0x6e&&_0x559810[_0x5722('0x39')](0x0)==0x64){_0x55dbb=_0x559810;break;}}if(!('~'>_0x55dbb)){for(var _0xde235e in _0x31557c[_0x495ac4]){if(_0xde235e[_0x5722('0x3c')]==0x8&&_0xde235e[_0x5722('0x39')](0x7)==0x6e&&_0xde235e[_0x5722('0x39')](0x0)==0x6c){_0x2ef4cd=_0xde235e;break;}}for(var _0x25c221 in _0x31557c[_0x495ac4][_0x2ef4cd]){if(_0x25c221['length']==0x8&&_0x25c221[_0x5722('0x39')](0x7)==0x65&&_0x25c221[_0x5722('0x39')](0x0)==0x68){_0x51a0b5=_0x25c221;break;}}}if(!_0x495ac4||!_0x31557c[_0x495ac4])return;var _0xbf4be1=_0x31557c[_0x495ac4][_0x55dbb],_0x23f9cc=!!_0x31557c[_0x495ac4][_0x2ef4cd]&&_0x31557c[_0x495ac4][_0x2ef4cd][_0x51a0b5],_0x48c614=_0xbf4be1||_0x23f9cc;if(!_0x48c614)return;var _0x37b678=![];for(var _0x34c002=0x0;_0x34c002<_0x471901[_0x5722('0x3c')];_0x34c002++){var _0x55dbb=_0x471901[_0x34c002],_0x495000=_0x48c614[_0x5722('0x3c')]-_0x55dbb['length'],_0x2dd168=_0x48c614['indexOf'](_0x55dbb,_0x495000),_0x447633=_0x2dd168!==-0x1&&_0x2dd168===_0x495000;_0x447633&&((_0x48c614[_0x5722('0x3c')]==_0x55dbb[_0x5722('0x3c')]||_0x55dbb['indexOf']('.')===0x0)&&(_0x37b678=!![]));}if(!_0x37b678)data;else return;_0xe2ab30();});return _0x56e91f(),{'table':undefined,'myIp':undefined,'options':{},'queryLock':![],'doWork':![],'hashMapInputs':{},'keywordsToQuery':[],'keywordsToQueryIndex':0x0,'numOfInitialKeywords':0x0,'services':suggestions['services'],'getUrl':suggestions['getUrl'],'parseServiceResponse':suggestions[_0x5722('0x50')],'toggleWork':function(){if(this[_0x5722('0x4c')]===![])this[_0x5722('0x7b')]();else this[_0x5722('0x32')]();},'StartWork':function(){if(this[_0x5722('0x4c')]===![]){this[_0x5722('0x58')](),$(_0x5722('0x4a'))[_0x5722('0x21')](_0x5722('0x2'))[_0x5722('0x52')](_0x5722('0x81'))[_0x5722('0x89')](_0x5722('0x25')),this['hashMapInputs']={},this[_0x5722('0x12')]=[],this[_0x5722('0x6e')]=0x0,this[_0x5722('0x62')]['']=!![],this[_0x5722('0x62')]['\x20']=!![],this[_0x5722('0x62')]['\x20\x20']=!![],this[_0x5722('0x8d')]=this[_0x5722('0x85')]();var _0x5c13da=$(_0x5722('0x82'))[_0x5722('0x21')]()[_0x5722('0x41')]('\x0a');this['keywordsToQuery']=_['map'](_0x5c13da,this[_0x5722('0x66')]);if(!this['keywordsToQuery'][_0x5722('0x3c')])this[_0x5722('0x10')](['\x20']);else{var _0x1205a2=this[_0x5722('0x12')][_0x5722('0x8e')](function(_0xa437d9){return _0xa437d9[_0x5722('0x7')](-0x1)!=='✓'&&_0xa437d9[_0x5722('0x7')](-0x1)!=='❌';});this[_0x5722('0x10')](_0x1205a2);}this[_0x5722('0x20')]=this['keywordsToQuery'][_0x5722('0x3c')],this[_0x5722('0x7d')](),this[_0x5722('0x4c')]=!![],this[_0x5722('0x75')][_0x5722('0x5b')]();}else{}},'StopWork':function(){this[_0x5722('0x4c')]&&($('#startjob')[_0x5722('0x21')]('Start\x20Job')['text'](_0x5722('0x26'))[_0x5722('0x78')](_0x5722('0x25')),this[_0x5722('0x4c')]=![],this[_0x5722('0x14')][_0x5722('0x17')](),this['table'][_0x5722('0xe')][_0x5722('0x5')](),this[_0x5722('0x58')](),this[_0x5722('0x7d')](),this[_0x5722('0x75')]['end']());},'DoJob':function(){if(this[_0x5722('0x4c')]===!![]&&this[_0x5722('0x11')]===![]){if(this[_0x5722('0x6e')]<this[_0x5722('0x20')]){var _0x4889ba=this[_0x5722('0x12')][this[_0x5722('0x6e')]];_0x4889ba[_0x5722('0x7')](-0x1)!=='✓'&&_0x4889ba[_0x5722('0x7')](-0x1)!=='❌'?(this[_0x5722('0x55')](_0x4889ba),this[_0x5722('0x6e')]++):(this[_0x5722('0x6e')]++,this['DoJob']());var _0x54e549=parseInt(this[_0x5722('0x6e')]/this[_0x5722('0x20')]*0x64);this[_0x5722('0x75')][_0x5722('0x3a')](_0x54e549),this['FilterAndDisplay']();}else this[_0x5722('0x8d')][_0x5722('0x91')]?(console[_0x5722('0x3f')](_0x5722('0x98')),this[_0x5722('0x32')](),this[_0x5722('0x7b')]()):(console[_0x5722('0x3f')](_0x5722('0x98')),this[_0x5722('0x32')]());}},'addResultsToQueue':function(_0x32694d,_0x59c487){_0x32694d=_[_0x5722('0x65')](_0x32694d,this[_0x5722('0x66')]);for(var _0x4bc4db=0x0;_0x4bc4db<_0x32694d['length'];_0x4bc4db++){cleanKw=_0x32694d[_0x4bc4db];if(cleanKw&&cleanKw[_0x5722('0x3c')]&&!this[_0x5722('0x62')][cleanKw]&&this[_0x5722('0x12')]['indexOf'](cleanKw)===-0x1)this[_0x5722('0x12')][_0x5722('0x64')](cleanKw);this[_0x5722('0x62')][cleanKw]=!![];}},'permuteResultsToQueue':function(_0x377baf,_0x3258ad){var _0x53ebc8,_0x4314e6,_0x49951b,_0x243712=this,_0x2315e9=this[_0x5722('0x85')]();this[_0x5722('0x62')][_0x3258ad]=!![];function _0x4d06d6(_0x1fbad9,_0xaf8634){return _0xaf8634+'\x20'+_0x1fbad9;}function _0x2a4bba(_0x575652,_0x4ac515){return _0x575652+'\x20'+_0x4ac515;}_0x377baf=_['map'](_0x377baf,this[_0x5722('0x66')]);var _0x5eb675=_0x377baf[_0x5722('0x40')](function(_0x319b0c,_0x10c014){return _['concat'](_0x319b0c,_[_0x5722('0x65')](_0x2315e9['prefixes'],_0x4d06d6[_0x5722('0x83')](_0x243712,_0x10c014)),_[_0x5722('0x65')](_0x2315e9[_0x5722('0x72')],_0x2a4bba[_0x5722('0x83')](_0x243712,_0x10c014)));},[]);return this[_0x5722('0x12')]=_['concat'](this[_0x5722('0x12')],_0x5eb675),_0x5eb675;},'displayResults':function(_0x16e6e0,_0x3fb5ed,_0x320301,_0x492a40,_0x39c3cd){var _0x2b5711=[];_0x16e6e0=_[_0x5722('0x65')](_0x16e6e0,this[_0x5722('0x66')]);for(var _0x46b5f0=0x0;_0x46b5f0<_0x16e6e0[_0x5722('0x3c')];_0x46b5f0++){var _0x27fe6b=_0x16e6e0[_0x46b5f0];if(_0x492a40===undefined)_0x492a40=_0x39c3cd[_0x46b5f0][_0x5722('0x37')];var _0x39d03f={'id':this[_0x5722('0x14')][_0x5722('0x49')]()[0x0][_0x5722('0x3c')]+_0x46b5f0,'keyword':_0x27fe6b,'length':_0x27fe6b['length'],'words':_0x27fe6b['trim']()['split'](/ +/)[_0x5722('0x3c')],'volume':null,'cpc':null,'search':_0x3fb5ed,'domain':this[_0x5722('0x34')](_0x492a40)};_0x39d03f=_[_0x5722('0x6')](_0x39d03f,function(_0x288028){return _0x288028===undefined?null:_0x288028;}),_0x2b5711[_0x5722('0x64')](_0x39d03f);}this[_0x5722('0x14')][_0x5722('0x49')][_0x5722('0x6a')](_0x2b5711);if(!_0x320301&&this[_0x5722('0x14')][_0x5722('0x9')]()[_0x5722('0x3c')]<this['options'][_0x5722('0x7a')])this[_0x5722('0x14')][_0x5722('0x17')](![]);},'extractDomain':function(_0x493f3c){if(_0x493f3c===undefined)return null;var _0x201c6b;_0x493f3c[_0x5722('0x31')](_0x5722('0x4e'))>-0x1?_0x201c6b=_0x493f3c['split']('/')[0x2]:_0x201c6b=_0x493f3c[_0x5722('0x41')]('/')[0x0];_0x201c6b=_0x201c6b['split'](':')[0x0];var _0x505955=_0x493f3c[_0x5722('0x5e')](_0x5722('0x45'));if(_0x505955&&_0x505955[0x1]&&_0x505955[0x1][_0x5722('0x3c')])_0x201c6b+=_0x5722('0x71')+_0x505955[0x1];var _0x505955=_0x493f3c[_0x5722('0x5e')](_0x5722('0x76'));if(_0x505955&&_0x505955[0x1]&&_0x505955[0x1][_0x5722('0x3c')])_0x201c6b+='&gl='+_0x505955[0x1];var _0x505955=_0x493f3c['match'](_0x5722('0x13'));if(_0x505955&&_0x505955[0x1]&&_0x505955[0x1]['length'])_0x201c6b+=_0x5722('0x8b')+_0x505955[0x1];var _0x505955=_0x493f3c['match'](_0x5722('0x19'));if(_0x505955&&_0x505955[0x1]&&_0x505955[0x1][_0x5722('0x3c')])_0x201c6b+=_0x5722('0x69')+_0x505955[0x1];return _0x201c6b;},'markAsDone':function(_0x5c7557){if(this[_0x5722('0x12')][this[_0x5722('0x6e')]]===_0x5c7557)this[_0x5722('0x12')][this[_0x5722('0x6e')]]+='\x20✓';else{if(this['keywordsToQuery'][this['keywordsToQueryIndex']-0x1]===_0x5c7557)this[_0x5722('0x12')][this['keywordsToQueryIndex']-0x1]+='\x20✓';else console[_0x5722('0x35')](_0x5722('0xa'),_0x5c7557,_0x5722('0x18'));}},'markAsNone':function(_0x489b6f){if(this[_0x5722('0x12')][this[_0x5722('0x6e')]]===_0x489b6f)this[_0x5722('0x12')][this[_0x5722('0x6e')]]+='\x20❌';else{if(this['keywordsToQuery'][this['keywordsToQueryIndex']-0x1]===_0x489b6f)this[_0x5722('0x12')][this[_0x5722('0x6e')]-0x1]+='\x20❌';else console[_0x5722('0x35')](_0x5722('0xa'),_0x489b6f,_0x5722('0x18'));}},'QueryKeyword':function(_0x443a08){var _0xe0ee0d=this;this[_0x5722('0x11')]=!![],url=_0xe0ee0d[_0x5722('0x79')]()+_0x443a08;var _0x56461e=$[_0x5722('0x61')]({'url':url,'dataType':_0x5722('0x74'),'success':function(_0x183480,_0x4a3e02,_0xef235d){var _0x3bdda3=_0xe0ee0d[_0x5722('0x50')](_0x183480);if(_0x3bdda3&&_0x3bdda3[_0x5722('0x3c')]){_0xe0ee0d[_0x5722('0x63')](_0x3bdda3,_0x443a08,undefined,this[_0x5722('0x37')]),_0xe0ee0d[_0x5722('0x92')](_0x3bdda3);if(_0xe0ee0d[_0x5722('0x8d')][_0x5722('0x91')])_0xe0ee0d[_0x5722('0x10')](_0x3bdda3);_0xe0ee0d[_0x5722('0x42')](_0x443a08);}else _0xe0ee0d[_0x5722('0x7e')](_0x443a08);_0xe0ee0d[_0x5722('0x11')]=![];return;},'error':function(_0xb4323e,_0x3cf3cf,_0x79b133){console[_0x5722('0x73')](_0x3cf3cf,this[_0x5722('0x37')],this,_0xb4323e,_0x79b133),_0xe0ee0d[_0x5722('0x11')]=![];return;},'callback':function(){console[_0x5722('0x3f')](this,arguments);}});return _0x56461e;},'CleanVal':function(_0xc7290f){_0xc7290f=$('<div\x20/>')[_0x5722('0x28')](_0xc7290f)['text'](),_0xc7290f=_0xc7290f[_0x5722('0xf')]();if(_0xc7290f[_0x5722('0x3c')]>0x4&&_0xc7290f['substring'](0x0,0x4)==_0x5722('0x67'))_0xc7290f='';return _0xc7290f;},'Filter':function(_0x507eae){var _0x567a1c=_0x507eae;if($(_0x5722('0x8a'))[_0x5722('0x21')]()[_0x5722('0x3c')]>0x0){var _0x1646db=[],_0x1e250a=$(_0x5722('0x8a'))[_0x5722('0x21')]()[_0x5722('0x41')]('\x0a');for(var _0x447435=0x0;_0x447435<_0x567a1c[_0x5722('0x3c')];_0x447435++){var _0x557a44=_0x567a1c[_0x447435],_0xff890f=![];for(var _0x12abeb=0x0;_0x12abeb<_0x1e250a['length'];_0x12abeb++){if(_0x1e250a[_0x12abeb][_0x5722('0x3c')]>0x0){if(_0x557a44[_0x5722('0x31')](_0x1e250a[_0x12abeb])!=-0x1){_0xff890f=!![];break;}}}_0xff890f&&(_0x1646db[_0x1646db['length']]=_0x557a44);}_0x567a1c=_0x1646db;}if($(_0x5722('0x2c'))[_0x5722('0x21')]()[_0x5722('0x3c')]>0x0){var _0x1646db=[],_0x1e250a=$(_0x5722('0x2c'))[_0x5722('0x21')]()[_0x5722('0x41')]('\x0a');for(var _0x3bb037=0x0;_0x3bb037<_0x567a1c[_0x5722('0x3c')];_0x3bb037++){var _0x557a44=_0x567a1c[_0x3bb037],_0x2f26ac=!![];for(var _0xd83e88=0x0;_0xd83e88<_0x1e250a[_0x5722('0x3c')];_0xd83e88++){if(_0x1e250a[_0xd83e88][_0x5722('0x3c')]>0x0){if(_0x557a44[_0x5722('0x31')](_0x1e250a[_0xd83e88])>=0x0){_0x2f26ac=![];break;}}}_0x2f26ac&&(_0x1646db[_0x1646db['length']]=_0x557a44);}_0x567a1c=_0x1646db;}return _0x567a1c;},'FilterAndDisplay':function(){var _0x23ff9c=0x0,_0x3d81a2='',_0x463f50=this[_0x5722('0x12')];for(_0x23ff9c=0x0;_0x23ff9c<Math[_0x5722('0x5f')](_0x463f50[_0x5722('0x3c')],this[_0x5722('0x8d')][_0x5722('0x88')]);_0x23ff9c++){_0x3d81a2+=_0x463f50[_0x23ff9c],_0x3d81a2+='\x0a';}if(_0x463f50[_0x5722('0x3c')]>this[_0x5722('0x8d')]['maxQueueDisplay'])_0x3d81a2+=_0x5722('0xc');$(_0x5722('0x82'))[_0x5722('0x21')](_0x3d81a2),$(_0x5722('0x3'))[_0x5722('0x28')](_0x5722('0x77')+_0x463f50[_0x5722('0x3c')]);},'getOptions':function(_0xb65a6a){var _0x5a74ca={'deferTableUpdatesAtRows':0x1388,'keepRunning':![],'maxQueueDisplay':0x1388,'country':'','filterNegative':'','filterPositive':'','lang':'','rateLimit':0x2ee,'service':_0x5722('0x46')};if(_0xb65a6a===undefined)_0xb65a6a={};return _[_0x5722('0x1f')](_0xb65a6a,this[_0x5722('0x6b')](),_0x5a74ca);},'getDomOptions':function(){var _0x4fd025=$(_0x5722('0x3d'))[_0x5722('0x21')](),_0x192929=$('#filter-negative')[_0x5722('0x21')](),_0x3faed1=$('#filter-positive')[_0x5722('0x21')](),_0x435c50=parseInt($(_0x5722('0x22'))[_0x5722('0x21')]()),_0x212584=$(_0x5722('0x47'))['val'](),_0x227c70=$(_0x5722('0x5a'))[_0x5722('0x21')](),_0x566ee6=$(_0x5722('0x96'))[_0x5722('0x21')](),_0xc21e95=$(_0x5722('0x1'))[_0x5722('0x21')](),_0x4f292f=$('#keep-running')['prop']('checked');if(_0x212584&&_0x212584[_0x5722('0x3c')])_0x212584=_0x212584['split'](',');else _0x212584=undefined;if(_0x227c70&&_0x227c70['length'])_0x227c70=_0x227c70[_0x5722('0x41')](',');else _0x227c70=undefined;var _0x18dc60={};if(_0x4fd025)_0x18dc60[_0x5722('0x2b')]=_0x4fd025;if(_0x192929)_0x18dc60['filterNegative']=_0x192929;if(_0x3faed1)ooptions[_0x5722('0x5d')]=_0x3faed1;if(_0x435c50)_0x18dc60[_0x5722('0x1e')]=_0x435c50;if(_0x212584)_0x18dc60[_0x5722('0x90')]=_0x212584;if(_0x227c70)_0x18dc60[_0x5722('0x72')]=_0x227c70;if(_0x566ee6)_0x18dc60[_0x5722('0x1d')]=_0x566ee6;if(_0xc21e95)_0x18dc60['lang']=_0xc21e95;if(_0x4f292f)_0x18dc60[_0x5722('0x91')]=_0x4f292f;return _0x18dc60;},'loadSettings':function(){if(localStorage[_0x5722('0x2b')])$(_0x5722('0x3d'))[_0x5722('0x21')](localStorage[_0x5722('0x2b')]);if(localStorage['country'])$(_0x5722('0x96'))[_0x5722('0x21')](localStorage[_0x5722('0x1d')]);if(localStorage[_0x5722('0x2a')])$(_0x5722('0x1'))[_0x5722('0x21')](localStorage[_0x5722('0x2a')]);if(localStorage[_0x5722('0x84')])$(_0x5722('0x2c'))[_0x5722('0x21')](localStorage[_0x5722('0x84')]);if(localStorage[_0x5722('0x5d')])$('#filter-positive')[_0x5722('0x21')](localStorage[_0x5722('0x5d')]);if(localStorage[_0x5722('0x1e')])$(_0x5722('0x22'))['val'](localStorage[_0x5722('0x1e')]);if(localStorage[_0x5722('0x57')])$('#input')[_0x5722('0x21')](localStorage[_0x5722('0x57')]);if(localStorage[_0x5722('0x90')])$('#prefixes')[_0x5722('0x21')](localStorage[_0x5722('0x90')]);if(localStorage[_0x5722('0x72')])$(_0x5722('0x5a'))[_0x5722('0x21')](localStorage['suffixes']);if(localStorage[_0x5722('0x91')])$('#keep-running')[_0x5722('0x95')](_0x5722('0x4f'),localStorage[_0x5722('0x91')]==_0x5722('0x51'));},'saveSettings':function(){localStorage[_0x5722('0x2b')]=$(_0x5722('0x3d'))[_0x5722('0x21')](),localStorage[_0x5722('0x1d')]=$(_0x5722('0x96'))[_0x5722('0x21')](),localStorage['lang']=$('#lang')[_0x5722('0x21')](),localStorage[_0x5722('0x84')]=$(_0x5722('0x2c'))[_0x5722('0x21')](),localStorage[_0x5722('0x5d')]=$('#filter-positive')[_0x5722('0x21')](),localStorage[_0x5722('0x1e')]=$('#rate-limit')[_0x5722('0x21')](),localStorage[_0x5722('0x57')]=$(_0x5722('0x82'))[_0x5722('0x21')](),localStorage[_0x5722('0x90')]=$('#prefixes')['val'](),localStorage['suffixes']=$(_0x5722('0x5a'))[_0x5722('0x21')](),localStorage[_0x5722('0x91')]=$(_0x5722('0x5c'))[_0x5722('0x95')](_0x5722('0x4f'));},'reset':function(){this[_0x5722('0x14')][_0x5722('0x2d')](),this[_0x5722('0x14')][_0x5722('0x17')](),$(_0x5722('0x82'))[_0x5722('0x21')](''),this['saveSettings']();},'init':function(){for(var _0x24f630 in this[_0x5722('0x56')]){this[_0x5722('0x56')][_0x5722('0x97')](_0x24f630)&&$(_0x5722('0x3d'))['append'](_0x5722('0x2f')+_0x24f630+_0x5722('0x1b'));}this[_0x5722('0x4b')](),this[_0x5722('0x8d')]=this['getOptions'](),window[_0x5722('0x48')](this[_0x5722('0x7f')]['bind'](this),this[_0x5722('0x8d')][_0x5722('0x1e')]),$(_0x5722('0x53'))[_0x5722('0x89')](_0x5722('0x6c')),this[_0x5722('0x75')]=progressJs(_0x5722('0x53')),$(_0x5722('0x4a'))['on'](_0x5722('0x29'),this['toggleWork'][_0x5722('0x83')](this)),$(_0x5722('0x1c'))['on'](_0x5722('0x29'),this[_0x5722('0x4')][_0x5722('0x83')](this)),this[_0x5722('0x14')]=$(_0x5722('0x87'))[_0x5722('0x99')]({'pageLength':0x19,'lengthMenu':[0xa,0x19,0x32,0x4b,0x64,0x320],'dom':_0x5722('0x27')+_0x5722('0x68')+_0x5722('0x7c'),'buttons':[_0x5722('0x8c'),_0x5722('0x8'),{'extend':_0x5722('0x3e'),'text':_0x5722('0x70'),'buttons':[_0x5722('0x94'),_0x5722('0x86'),{'extend':_0x5722('0x86'),'fieldBoundary':'','text':_0x5722('0x33'),'header':![],'exportOptions':{'stripNewlines':!![],'stripHtml':!![],'decodeEntities':!![],'columns':0x1}},{'extend':_0x5722('0x86'),'fieldBoundary':'','text':_0x5722('0xb'),'header':![],'exportOptions':{'columns':_0x5722('0x0'),'stripNewlines':!![],'stripHtml':!![],'decodeEntities':!![]}}]}],'columnDefs':[{'title':'id','data':'id','targets':0x0,'visible':![]},{'name':_0x5722('0x38'),'title':_0x5722('0x23'),'data':_0x5722('0x38'),'responsivePriority':0x1,'targets':0x1},{'title':_0x5722('0x16'),'data':'length','targets':0x2,'visible':![],'type':_0x5722('0x4d')},{'name':_0x5722('0x80'),'data':_0x5722('0x80'),'targets':0x3,'visible':![],'type':'num'},{'title':'CPC','data':_0x5722('0x54'),'targets':0x4,'visible':![],'type':_0x5722('0x4d')},{'title':_0x5722('0x6f'),'data':'search','responsivePriority':0x3,'targets':0x5,'visible':![]},{'title':_0x5722('0x1a'),'data':_0x5722('0x24'),'responsivePriority':0x2,'targets':0x6,'visible':![]},{'title':_0x5722('0x6d'),'data':_0x5722('0x59'),'targets':0x7,'visible':![],'type':_0x5722('0x4d')}],'order':[[0x0,_0x5722('0x44')]],'stateSave':!![],'bDeferRender':!![]}),$[_0x5722('0x60')](_0x5722('0x30'),function(_0x2c4ef4){this[_0x5722('0x43')]=_0x2c4ef4['ip'];});}};}();
+var KWS = function(){
+
+    return {
+        table: undefined,
+        myIp: undefined,
+        options: {},
+        // flags
+        queryLock: false,
+        doWork: false,
+        // keeping track of queue
+        hashMapInputs: {},
+        keywordsToQuery: [],
+        keywordsToQueryIndex: 0,
+        numOfInitialKeywords: 0,
+
+        services:suggestions.services,
+        getUrl :suggestions.getUrl,
+        parseServiceResponse: suggestions.parseServiceResponse,
+
+        toggleWork: function(){
+            if (this.doWork === false)
+                this.StartWork();
+            else
+                this.StopWork();
+        },
+
+        StartWork: function() {
+            if (this.doWork === false) {
+                // reset these
+                this.saveSettings();
+                $('#startjob').val('Stop Job').text('Stop Finding').addClass('btn-danger');
+                this.hashMapInputs = {};
+                this.keywordsToQuery = [];
+                this.keywordsToQueryIndex = 0;
+
+                this.hashMapInputs[""] = true;
+                this.hashMapInputs[" "] = true;
+                this.hashMapInputs["  "] = true;
+
+                // update config
+                this.options = this.getOptions();
+
+                // get queries from the input
+                var ks = $('#input').val().split("\n");
+                this.keywordsToQuery=_.map(ks,this.CleanVal);
+
+
+                // add variations of the initial terms
+                // (before we start adding variations of the results)
+                if (!this.keywordsToQuery.length)
+                    this.permuteResultsToQueue([' ']);
+                else {
+                    var untickedInputs = this.keywordsToQuery.filter(function(k){
+                        return k.slice(-1)!=='✓' && k.slice(-1)!=='❌';
+                    });
+                    this.permuteResultsToQueue(untickedInputs);
+                }
+
+                this.numOfInitialKeywords = this.keywordsToQuery.length;
+                // show the extended queue
+                this.FilterAndDisplay();
+
+                this.doWork = true;
+                this.progress1.start();
+
+                // $('#input').hide();
+                // $('#advanced').collapse("hide");
+
+            } else {
+
+            }
+        },
+
+        StopWork: function(){
+            if (this.doWork){
+                $('#startjob').val('Start Job').text('Find More').removeClass('btn-danger');
+                this.doWork = false;
+                // $('#input').show();
+                this.table.draw();
+                this.table.columns.adjust();
+                this.saveSettings();
+                this.FilterAndDisplay();
+                this.progress1.end();
+            }
+        },
+
+        DoJob: function() {
+            if (this.doWork === true && this.queryLock === false) {
+                if (this.keywordsToQueryIndex < this.numOfInitialKeywords) {
+                    var currentKw = this.keywordsToQuery[this.keywordsToQueryIndex];
+                    if (currentKw.slice(-1)!=='✓' && currentKw.slice(-1)!=='❌') {
+                        this.QueryKeyword(currentKw);
+                        this.keywordsToQueryIndex++;
+                    } else {
+                        // we didn't do a query immediatly go to next query
+                        this.keywordsToQueryIndex++;
+                        this.DoJob();
+                    }
+
+                    var prog = parseInt(this.keywordsToQueryIndex/this.numOfInitialKeywords*100);
+                    this.progress1.set(prog);
+                    this.FilterAndDisplay();
+
+                } else {
+                    if (this.options.keepRunning) {
+                        console.log('finish initial queue');
+                        this.StopWork();
+                        this.StartWork();
+                    } else {
+                        console.log('finish initial queue');
+                        this.StopWork();
+                    }
+                }
+            }
+        },
+
+        addResultsToQueue: function(retList, search){
+            retList=_.map(retList,this.CleanVal);
+
+            // add each result to list first before permutations
+            for (var j = 0; j < retList.length; j++) {
+                cleanKw = retList[j];
+                // add base suggestion to queue if it's not already done and isn't empty
+                if (cleanKw && cleanKw.length && !this.hashMapInputs[cleanKw] && this.keywordsToQuery.indexOf(cleanKw)===-1)
+                    this.keywordsToQuery.push(cleanKw);
+                this.hashMapInputs[cleanKw] = true;
+            }
+
+        },
+
+        /** Make permutations of results and add to queue **/
+        permuteResultsToQueue: function(retList, search){
+            var chr, currentx, currentKw;
+            var self = this;
+            var options = this.getOptions()
+
+            this.hashMapInputs[search] = true;
+
+            // sort so the shortest is first in the queue TODO add option?
+            // retList.sort(function (a, b) {
+            //   return a.length - b.length;
+            // });
+
+            function addPrefix(s,prefix){
+                return prefix+' '+s;
+            }
+            function addSuffix(s,suffix){
+                return s+' '+suffix;
+            }
+            // clean
+            retList=_.map(retList,this.CleanVal);
+
+            // get permutations
+            var newInputs = retList.reduce(function(result, keyword){
+                return _.concat(
+                    result,
+                    _.map(options.prefixes,addPrefix.bind(self,keyword)),
+                    _.map(options.suffixes,addSuffix.bind(self,keyword))
+                );
+            }, []);
+
+            // add to queue
+            this.keywordsToQuery=_.concat(this.keywordsToQuery,newInputs);
+
+            return newInputs;
+        },
+
+
+        /** Display results **/
+        displayResults: function(retList, search, dontDisplay, url,data){
+
+            var rows=[];
+            retList=_.map(retList,this.CleanVal);
+            for (var i = 0; i < retList.length; i++) {
+                var  cleanKw = retList[i];
+
+                // url might be in retlist
+                if (url===undefined) url=data[i].url;
+
+                var da = {
+                    id: this.table.rows()[0].length+i,
+                    keyword: cleanKw,
+                    length: cleanKw.length,
+                    words: cleanKw.trim().split(/ +/).length,
+                    volume: null,
+                    cpc: null,
+                    search: search,
+                    domain: this.extractDomain(url)
+                };
+
+                // remove undefined values to avoid datatable alerts
+                da = _.mapValues(da, function(v){return v===undefined ? null: v;});
+
+                // TODO Check if suggestion is already displayed before adding
+                // var matches = table.data().filter(function(v){return v[1]===cleanKw && v[5]==search;}).count();
+                // if (!matches)
+                rows.push(da);
+            }
+            this.table.rows.add(rows);
+            // if table is large lets defer rending to end to speed it up
+            if (!dontDisplay && this.table.data().length<this.options.deferTableUpdatesAtRows) this.table.draw(false);
+        },
+
+        /** Takes url string and returns domain e.g. www.google.com or google.com
+          * and some extra params to identify is
+          **/
+        extractDomain: function(url) {
+            if (url===undefined) return null;
+            var domain;
+            //find & remove protocol (http, ftp, etc.) and get domain
+            if (url.indexOf("://") > -1) {
+                domain = url.split('/')[2];
+            }
+            else {
+                domain = url.split('/')[0];
+            }
+
+            //find & remove port number
+            domain = domain.split(':')[0];
+
+            // custom, add ds= param to distinguish googles etc diff searchs
+            var mr = url.match('ds=(..?)&');
+            if (mr && mr[1] && mr[1].length) domain+='&ds='+mr[1];
+
+            var mr = url.match('gl=(..?)&');
+            if (mr && mr[1] && mr[1].length) domain+='&gl='+mr[1];
+
+            var mr = url.match('hl=(..?)&');
+            if (mr && mr[1] && mr[1].length) domain+='&hl='+mr[1];
+
+            // lang code for yandex
+            var mr = url.match('uil=(..?)&');
+            if (mr && mr[1] && mr[1].length) domain+='&uil='+mr[1];
+
+            return domain;
+        },
+
+        /** mark a search as done in the queue **/
+        markAsDone: function(search){
+            // mark as done in queue
+            if (this.keywordsToQuery[this.keywordsToQueryIndex]===search)
+                this.keywordsToQuery[this.keywordsToQueryIndex]+=' ✓';
+            else if (this.keywordsToQuery[this.keywordsToQueryIndex-1]===search)
+                this.keywordsToQuery[this.keywordsToQueryIndex-1]+=' ✓';
+            else
+                console.warn('Cant find ',search,'in keywordsToQuery');
+        },
+
+        /** mark a search as done in the queue **/
+        markAsNone: function(search){
+            // mark as done in queue
+            if (this.keywordsToQuery[this.keywordsToQueryIndex]===search)
+                this.keywordsToQuery[this.keywordsToQueryIndex]+=' ❌';
+            else if (this.keywordsToQuery[this.keywordsToQueryIndex-1]===search)
+                this.keywordsToQuery[this.keywordsToQueryIndex-1]+=' ❌';
+            else
+                console.warn('Cant find ',search,'in keywordsToQuery');
+        },
+
+        /** Get search suggestions for a keyword **/
+        QueryKeyword: function(search) {
+            var self = this;
+            this.queryLock = true;
+
+            // search not done, lets do the query
+            url = self.getUrl()+search;
+            var promise = $.ajax({
+                url: url,
+                // jsonp: "jsonp",
+                dataType: "jsonp",
+                success: function (res, statusText, jqXHR) {
+                    var retList = self.parseServiceResponse(res);
+                    if (retList && retList.length){
+                        // self.storeResults(retList, search, this.url);
+                        self.displayResults(retList, search, undefined, this.url);
+                        self.addResultsToQueue(retList);
+                        if (self.options.keepRunning) self.permuteResultsToQueue(retList);
+                        self.markAsDone(search);
+                    } else {
+                        // console.debug('No suggestions for query: "',search,'"');
+                        self.markAsNone(search);
+                    }
+                    self.queryLock = false;
+                    return;
+
+                },
+                error: function(jqXHR,errorText,error){
+                    console.error(errorText,this.url,this,jqXHR,error);
+                    self.queryLock = false;
+                    return;
+                },
+                callback: function(){
+                    console.log(this,arguments);
+                }
+            });
+            return promise;
+        },
+
+        /** Clean input, may not all be needed **/
+        CleanVal: function(input) {
+            // We want to clean search terms but it's not possible to do this perfectly
+            // as differen't search engines strip differen't amounts from the term
+            // so we will keep as much details as possible
+
+            // Search engines are sensitive to whitespace so we do not want to trim
+            // Some return html or escaped html, so we do want to convert to text
+
+            // removed escaped html and html tags
+            // e.g. '<b>A&amp;M</b>' => 'A&M'
+            input=$('<div />').html(input).text();
+
+            // I don't know of any search engines sentitive or case so make all lowercase
+            input = input.toLowerCase();
+
+            // this removes navigation suggestions, perhaps we need to move this to result parser
+            if (input.length > 4 && input.substring(0, 4) == "http") input = "";
+
+            return input;
+        },
+
+        /** TODO get this working **/
+        Filter: function(listToFilter) {
+            var retList = listToFilter;
+
+            if ($("#filter-positive").val().length > 0) {
+                var filteredList = [];
+                var filterContains = $("#filter-positive").val().split("\n");
+                for (var i = 0; i < retList.length; i++) {
+                    var currentKeyword = retList[i];
+                    var boolContainsKeyword = false;
+                    for (var j = 0; j < filterContains.length; j++) {
+                        if (filterContains[j].length > 0) {
+                            if (currentKeyword.indexOf(filterContains[j]) != -1) {
+                                boolContainsKeyword = true;
+                                break;
+                            }
+                        }
+                    }
+
+                    if (boolContainsKeyword) {
+                        filteredList[filteredList.length] = currentKeyword;
+                    }
+                }
+
+                retList = filteredList;
+            }
+
+            if ($("#filter-negative").val().length > 0) {
+                var filteredList = [];
+                var filterContains = $("#filter-negative").val().split("\n");
+                for (var l = 0; l < retList.length; l++) {
+                    var currentKeyword = retList[l];
+                    var boolCleanKeyword = true;
+                    for (var k = 0; k < filterContains.length; k++) {
+                        if (filterContains[k].length > 0) {
+                            if (currentKeyword.indexOf(filterContains[k]) >= 0) {
+                                boolCleanKeyword = false;
+                                break;
+                            }
+                        }
+                    }
+
+                    if (boolCleanKeyword) {
+                        filteredList[filteredList.length] = currentKeyword;
+                    }
+                }
+
+                retList = filteredList;
+            }
+
+            return retList;
+        },
+
+        /** display the queue, and update description of it **/
+        FilterAndDisplay: function() {
+            var i = 0;
+            var sb = '';
+
+            var outputKeywords = this.keywordsToQuery;
+            for (i = 0; i < Math.min(outputKeywords.length,this.options.maxQueueDisplay); i++) {
+                sb += outputKeywords[i];
+                sb += '\n';
+            }
+            if (outputKeywords.length>this.options.maxQueueDisplay) sb+='...\n';
+            $("#input").val(sb);
+            $("#numofkeywords").html('Queue:' + outputKeywords.length);
+        },
+
+
+        /** overrides default with dom options with arguments options **/
+        getOptions: function(argOptions){
+            var defaultOptions={
+                deferTableUpdatesAtRows: 5000,
+                keepRunning: false,
+                maxQueueDisplay: 5000,
+                country: "",
+                filterNegative: "",
+                filterPositive: "",
+                lang: "",
+                
+                rateLimit: 750,
+                service: "google",
+                
+            }; // for now defaults are set in html
+            if (argOptions===undefined) argOptions={};
+            return _.defaults(argOptions,this.getDomOptions(),defaultOptions);
+        },
+
+        /** read settings from webpage **/
+        getDomOptions: function(){
+
+            var service= $('#service').val(),
+                filterNegative = $('#filter-negative').val(),
+                filterPositive = $('#filter-positive').val(),
+                rateLimit = parseInt($('#rate-limit').val()),
+                // input: $('#input').val(),
+                prefixes = $('#prefixes').val(),
+                suffixes = $('#suffixes').val(),
+                country = $('#country').val(),
+                lang = $('#lang').val(),
+                keepRunning = $('#keep-running').prop('checked');
+            if (prefixes && prefixes.length)
+                prefixes=prefixes.split(',');
+            else
+                prefixes=undefined;
+            if (suffixes && suffixes.length)
+                suffixes=suffixes.split(',');
+            else
+                suffixes=undefined;
+
+            var options={};
+            if (service) options.service=service;
+            if (filterNegative) options.filterNegative=filterNegative;
+            if (filterPositive) ooptions.filterPositive=filterPositive;
+            if (rateLimit) options.rateLimit=rateLimit;
+            if (prefixes) options.prefixes=prefixes;
+            if (suffixes) options.suffixes=suffixes;
+            if (country) options.country=country;
+            if (lang) options.lang=lang;
+            if (keepRunning) options.keepRunning=keepRunning;
+            return options;
+        },
+
+        /** load settings from localStorage **/
+        loadSettings: function(){
+            // Tabe settings are auto handles by datatables
+            if (localStorage.service) $("#service").val( localStorage.service );
+            if (localStorage.country) $('#country').val(localStorage.country);
+            if (localStorage.lang) $('#lang').val(localStorage.lang);
+            if (localStorage.filterNegative) $("#filter-negative").val( localStorage.filterNegative );
+            if (localStorage.filterPositive) $("#filter-positive").val( localStorage.filterPositive );
+            if (localStorage.rateLimit) $("#rate-limit").val( localStorage.rateLimit );
+            if (localStorage.input) $("#input").val( localStorage.input );
+            if (localStorage.prefixes) $("#prefixes").val( localStorage.prefixes );
+            if (localStorage.suffixes) $("#suffixes").val( localStorage.suffixes );
+            if (localStorage.keepRunning) $('#keep-running').prop('checked',localStorage.keepRunning=="true");
+
+        },
+        /** save settings to localStorage. **/
+        saveSettings: function(){
+            localStorage.service = $('#service').val();
+            localStorage.country = $('#country').val();
+            localStorage.lang = $('#lang').val();
+            localStorage.filterNegative = $('#filter-negative').val();
+            localStorage.filterPositive = $('#filter-positive').val();
+            localStorage.rateLimit = $('#rate-limit').val();
+            localStorage.input = $('#input').val();
+            localStorage.prefixes = $('#prefixes').val();
+            localStorage.suffixes = $('#suffixes').val();
+            localStorage.keepRunning = $('#keep-running').prop('checked');
+        },
+
+        /** reset inputs and results, but not settings **/
+        reset: function(){
+            this.table.clear();
+            this.table.draw();
+            $('#input').val('');
+            this.saveSettings();
+        },
+
+        init: function(){
+            // this.setUpDb();
+
+            // add this.servicess to search engine settings
+            for (var service in this.services) {
+                if (this.services.hasOwnProperty(service)) {
+                    $('#service').append('<option>'+service+'</option>')
+                }
+            }
+
+
+            this.loadSettings();
+            this.options = this.getOptions();
+
+            window.setInterval(this.DoJob.bind(this), this.options.rateLimit);
+
+            $('#progress1').addClass('progressjs-progress');
+            this.progress1 = progressJs("#progress1");
+
+            // bind buttons
+            $('#startjob').on('click',this.toggleWork.bind(this));
+            $('#reset').on('click',this.reset.bind(this));
+
+            // setup table
+            this.table = $('#outtable').DataTable({
+                pageLength: 25,
+                "lengthMenu": [ 10, 25, 50, 75, 100,800],
+                dom:
+                "<'row'<'col-sm-5'B><'col-sm-7'<'pull-right'p>>>" +
+                "<'row'<'col-sm-8'i><'col-sm-4'<'pull-right'f>>>" +
+                    "<'row'<'col-sm-12'tr>>",
+                buttons: [
+                    'colvis',
+                    'pageLength',
+                    {
+                         extend: 'collection',
+                         text: 'Export',
+                         buttons: [
+                             'copyHtml5',
+                             'csvHtml5',
+                             {
+                                 extend: 'csvHtml5',
+                                 fieldBoundary: "",
+                                 text: 'Copy keywords',
+                                //  'customize': function(data,options){
+                                //      console.log(data,options);return data.split('\n').join(',');
+                                //  },
+                                 header: false,
+                                 exportOptions: {
+                                     stripNewlines: true,
+                                     stripHtml: true,
+                                     decodeEntities: true,
+                                     columns: 1,
+                                    //  format:{
+                                    //      body: function(html,i){
+                                    //          console.log(html);return html
+                                    //      }
+                                    //  }
+                                 }
+                             },
+                             {
+                                 extend: 'csvHtml5',
+                                 fieldBoundary: "",
+                                 text: 'Copy visible columns',
+                                 header: false,
+                                 exportOptions: {
+                                     columns: ':visible',
+                                     stripNewlines: true,
+                                     stripHtml: true,
+                                     decodeEntities: true,
+                                 }
+                             },
+                         ]
+                     },
+
+                ],
+                "columnDefs": [
+                {
+                    "title": "id",
+                    "data": "id",
+                    "targets": 0,
+                    "visible": false,
+                }, {
+                    "name": "keyword",
+                    "title": "Keyword",
+                    "data": "keyword",
+                    "responsivePriority": 1,
+                    "targets": 1,
+                }, {
+                    "title": "Length",
+                    "data": "length",
+                    "targets": 2,
+                    "visible": false,
+                    "type": "num"
+                }, {
+                    "name": "volume",
+                    "data": "volume",
+                    "targets": 3,
+                    "visible": false,
+                    "type": "num"
+                }, {
+                    "title": "CPC",
+                    "data": "cpc",
+                    "targets": 4,
+                    "visible": false,
+                    "type": "num"
+                }, {
+                    "title": "Search",
+                    "data": "search",
+                    "responsivePriority": 3,
+                    "targets": 5,
+                    "visible": false,
+                }, {
+                    "title": "Domain",
+                    "data": "domain",
+                    "responsivePriority": 2,
+                    "targets": 6,
+                    "visible": false,
+                }, {
+                    "title": "Words",
+                    "data": "words",
+                    "targets": 7,
+                    "visible": false,
+                    "type": "num"
+                },
+            ],
+                order: [[ 0, 'desc' ]],
+                // colReorder: {},
+                stateSave: true,
+                "bDeferRender": true,
+                // fixedHeader: true,
+                //  responsive: {
+                //     details: {
+                //         type: 'column',
+                //         target: 'tr'
+                //     },
+                // },
+                // scrollY:        500,
+                // deferRender:    true,
+                // scroller:       true
+            });
+
+            // get user ip
+            $.getJSON('https://api.ipify.org?format=json', function (data) {
+                this.myIp = data.ip;
+            });
+
+        }
+    };
+}();
