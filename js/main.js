@@ -28,7 +28,7 @@ var KWS = function(){
             if (this.doWork === false) {
                 // reset these
                 this.saveSettings();
-                $('#startjob').val('Stop Job').text('Stop shitting').addClass('btn-danger');
+                $('#startjob').val('Stop Job').text('Stop Finding').addClass('btn-danger');
                 this.hashMapInputs = {};
                 this.keywordsToQuery = [];
                 this.keywordsToQueryIndex = 0;
@@ -73,7 +73,7 @@ var KWS = function(){
 
         StopWork: function(){
             if (this.doWork){
-                $('#startjob').val('Start Job').text('Start shitting').removeClass('btn-danger');
+                $('#startjob').val('Start Job').text('Start Finding').removeClass('btn-danger');
                 this.doWork = false;
                 // $('#input').show();
                 this.table.draw();
