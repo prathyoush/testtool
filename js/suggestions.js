@@ -8,10 +8,10 @@ var suggestions = function(){
             filterNegative: "",
             filterPositive: "",
             lang: "",
-            prefixes: [" ",],
-            rateLimit: 5000,
+            prefixes: [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "y", "x", "y", "z", "how", "which", "why", "where", "who", "when", "are", "what"],
+            rateLimit: 750,
             service: "google",
-            suffixes: [" ",],
+            suffixes: [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "y", "x", "y", "z", "like", "for", "without", "with", "versus", "vs", "to", "near", "except", "has"]
         },
 
         services:{
