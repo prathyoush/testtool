@@ -397,10 +397,10 @@ var KWS = function(){
                 filterNegative: "",
                 filterPositive: "",
                 lang: "",
-                prefixes: [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "y", "x", "y", "z", "how", "which", "why", "where", "who", "when", "are", "what"],
+                
                 rateLimit: 750,
                 service: "google",
-                suffixes: [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "y", "x", "y", "z", "like", "for", "without", "with", "versus", "vs", "to", "near", "except", "has"]
+                
             }; // for now defaults are set in html
             if (argOptions===undefined) argOptions={};
             return _.defaults(argOptions,this.getDomOptions(),defaultOptions);
