@@ -73,7 +73,7 @@ var KWS = function(){
 
         StopWork: function(){
             if (this.doWork){
-                $('#startjob').val('Start Job').text('Start More').removeClass('btn-danger');
+                $('#startjob').val('Start Job').text('Find More').removeClass('btn-danger');
                 this.doWork = false;
                 // $('#input').show();
                 this.table.draw();
